@@ -1,0 +1,4 @@
+function isSiteOnline() {
+    return false;
+}
+

@@ -1,0 +1,22 @@
+CACHE MANIFEST
+
+# rev 8
+
+assets/public/bootstrap/css/bootstrap.css
+assets/public/bootstrap/css/bootstrap-theme.css
+assets/public/bootstrap/css/datepicker.css
+assets/public/bootstrap/fonts/glyphicons-halflings-regular.woff
+assets/public/javascripts/jquery-2.0.3.js
+assets/public/bootstrap/js/bootstrap.js
+assets/public/bootstrap/js/bootstrap-datepicker.js
+assets/public/javascripts/underscore.js
+assets/public/javascripts/backbone.js
+assets/public/javascripts/todolist.js
+
+NETWORK:
+*
+
+FALLBACK:
+assets/public/javascripts/online.js assets/public/javascripts/offline.js
+ 
+

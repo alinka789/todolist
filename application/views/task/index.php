@@ -113,7 +113,7 @@
         </script>
          <script type="text/html" id="template-deleted-task">
             <div class="panel-heading">
-            <h4 class="text-info">This task has been removed or added to another user, but is not on your list. Click "Ok" to delete the task and the "Close" to leave the task.</h4>
+            <h4 class="text-info">This task has been removed or added to another user, but is not on your local list. Click "Ok" to delete the task and the "Close" to leave the task.</h4>
             <%= model.date + "/" + model.time %>
             <div class="pull-right">
             <span class="label label-info"><%= model.status %></span>
